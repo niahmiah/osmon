@@ -1,5 +1,7 @@
 # osmon-agent
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/niahmiah/osmon-agent.svg)](https://greenkeeper.io/)
+
 This is the monitoring agent for OSMon (Open Source Monitor)
 
 ### Useful commands
